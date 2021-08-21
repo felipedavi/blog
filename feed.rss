@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Felipe Davi's blog</title><link>http://felipedavi.github.io/blog/index.html</link>
+<description>A blog about the tech world</description><language>en</language>
+<lastBuildDate>Sat, 21 Aug 2021 12:17:49 -0300</lastBuildDate>
+<pubDate>Sat, 21 Aug 2021 12:17:49 -0300</pubDate>
+<atom:link href="http://felipedavi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Minha primeira postagem em meu querido blog
+</title><description><![CDATA[
+
+<p> Para manter a mistica tradição no mundo dos programadores <b>Hello, World!</b> Quem sabe a história dessa superstição rende alguma postagem
+futuramente. Mas continuando... </p>
+
+<hr/>
+]]></description><link>http://felipedavi.github.io/blog/minha-primeira-postagem-em-meu-querido-blog.html</link>
+<guid>http://felipedavi.github.io/blog/./minha-primeira-postagem-em-meu-querido-blog.html</guid>
+<dc:creator>Felipe Oliveira</dc:creator>
+<pubDate>Sat, 21 Aug 2021 12:17:48 -0300</pubDate></item>
+</channel></rss>
