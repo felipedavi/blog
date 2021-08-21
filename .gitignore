@@ -1,1 +1,4 @@
 drafts/
+.backup.tar.gz
+.yesterday.tar.gz
+bb.sh
